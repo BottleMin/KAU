@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from numpy.linalg import inv
-import time
 
 eta = 0.1 # hyperparameter
 iter_num = 100000
